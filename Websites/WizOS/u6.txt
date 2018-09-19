@@ -1,0 +1,30 @@
+#!bin/matrix
+file_name=u6.txt
+Fahrplanauskunft Line 6
+
+Zeitraum 27.01.76 - 04.02.76 - 21:00 - 05:00
+
+## Wichtiger Hinweis: ##
+# Aufgrund von Bauarbeiten ist die Strecke ab Kurt-Schuhmacher-Platz gesperrt
+# Die U-Bahn wendet am U-Bahnhof Afrikanische Straße
+# Vielen Dank für ihr Verständnis
+# - Urbanis Berlin
+
+Ankunftszeit U6 - Rehberge - Wochentags
+21 | 11, 17, 21, 27, 31, 37, 41, 47, 51, 57
+22 | 11, 17, 21, 27, 31, 37, 41, 47, 51, 57
+23 | 11, 17, 21, 27, 31, 37, 41, 47, 51, 57
+00 | 12, 20, 25, 32, 40, 45, 52
+01 | 12, 20, 25, 32, 40, 45, 52
+02 | 15, 30, 45, 00
+03 | 15, 30, 45, 00 # Hinweis, aufgrund von Wartungsarbeiten bleibt der Verkehr Mittwoch und Freitags bis 06:15 eingestellt!
+04 | 15, 30, 45, 00
+05 | 11, 13, 16, 18, 21, 23, 26, 28, 31, 33, 36, 38, 39, 41, 43, 46, 48, 51, 53, 54, 56, 58, 59
+
+Ankunftszeit U6 - Rehberger - Wochenende
+21 | 12, 20, 25, 32, 40, 45, 52
+22 | 12, 20, 25, 32, 40, 45, 52
+23 | 12, 20, 25, 32, 40, 45, 52
+00 | -- # Hinweis, aufgrund von Wartungsarbeiten wird der Verkehr ab Mitternacht bis 05:00 eingestellt. Gilt bis 03.02.2076
+01 | --
+??? FILE CORRUPTED 0x1022EF 0x5498AD 0xFFFFF ???
